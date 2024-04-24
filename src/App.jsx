@@ -24,7 +24,7 @@ function App() {
   return (
     <div className="container">
       <div className="header">
-        <h1>Professional Todo List</h1>
+        <h1>Personal To-Do List</h1>
       </div>
       <div className="todo-container">
         <input
